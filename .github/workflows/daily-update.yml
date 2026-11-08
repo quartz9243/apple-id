@@ -1,0 +1,39 @@
+name: Daily Update & SEO Maintenance
+
+on:
+  schedule:
+    # 每天北京时间 08:00 (UTC 00:00) 自动触发
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 支持在 GitHub 页面手动点击运行
+
+permissions:
+  contents: write
+
+jobs:
+  daily-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run update script
+        run: |
+          python scripts/update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes detected in README.md"
+          else
+            CURRENT_DATE=$(TZ='Asia/Shanghai' date +'%Y-%m-%d')
+            git commit -m "chore(auto-update): 每日状态同步与SEO维护 [skip ci] ($CURRENT_DATE)"
+            git push
+          fi
