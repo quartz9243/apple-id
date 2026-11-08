@@ -4,16 +4,20 @@
 
 这里整理了常用站点入口、账号获取方式以及防锁机注意事项，方便需要的朋友参考。
 
-<!-- AUTO_UPDATE_BADGE_START -->![Last Update](https://img.shields.io/badge/更新日期-2026--11--08-brightgreen?style=flat-square&logo=apple&logoColor=white)<!-- AUTO_UPDATE_BADGE_END -->
-![维护状态](https://img.shields.io/badge/账号状态-每日更新维护-blue?style=flat-square)
-![支持系统](https://img.shields.io/badge/适用系统-iOS%20%2F%20iPadOS-lightgrey?style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2026--11--08-brightgreen?style=flat-square&logo=apple&logoColor=white" alt="更新日期" />
+  <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E9%A2%91%E7%8E%87-%E6%AF%8F%E6%97%A5%E5%AE%9E%E6%97%B6%E7%BB%B4%E6%8A%A4-blue?style=flat-square" alt="更新频率" />
+  <img src="https://img.shields.io/badge/%E9%80%82%E7%94%A8%E7%B3%BB%E7%BB%9F-iOS%20%7C%20iPadOS-lightgrey?style=flat-square&logo=apple&logoColor=white" alt="适用系统" />
+  <img src="https://img.shields.io/badge/%E8%B4%A6%E5%8F%B7%E7%8A%B6%E6%80%81-%E5%85%A8%E5%A4%A9%E5%80%99%E6%A3%80%E6%B5%8B%E8%BD%AE%E6%8D%A2-success?style=flat-square" alt="账号状态" />
+  <img src="https://img.shields.io/badge/%E9%98%B2%E9%94%81%E6%9C%BA%E4%BF%9D%E9%9A%9C-100%25%E5%95%86%E5%BA%97%E7%99%BB%E5%BD%95-red?style=flat-square" alt="防锁机保障" />
+</p>
 
 ---
 
 ## 账号维护说明
 
 - 状态：每日检测可用，账号池定期轮换补号。
-- 最近同步日期：<!-- AUTO_UPDATE_DATE_START -->2026-11-08<!-- AUTO_UPDATE_DATE_END -->（<!-- AUTO_UPDATE_CN_START -->2026年11月08日<!-- AUTO_UPDATE_CN_END -->）
+- 最近同步日期：2026年11月08日
 - 如果遇到共享号被苹果风控锁定，直接去下方站点换一组新的即可。
 
 ---
@@ -24,11 +28,11 @@
 
 <p align="left">
   <a href="https://applp.com" target="_blank">
-    <img src="https://img.shields.io/badge/主域名入口-点击进入网站首页_(applp.com)-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="小火箭主站入口" />
+    <img src="https://img.shields.io/badge/%E4%B8%BB%E5%9F%9F%E5%90%8D%E5%85%A5%E5%8F%A3-%E7%82%B9%E5%87%BB%E8%BF%9B%E5%85%A5%E7%BD%91%E7%AB%99%E9%A6%96%E9%A1%B5_(applp.com)-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="小火箭主站入口" />
   </a>
   <br><br>
   <a href="https://id.ningmengid.com/item/69" target="_blank">
-    <img src="https://img.shields.io/badge/副域名直达-小火箭已购账号专页_(item/69)-28CD41?style=for-the-badge&logo=appstore&logoColor=white" alt="小火箭已购账号获取直达" />
+    <img src="https://img.shields.io/badge/%E5%89%AF%E5%9F%9F%E5%90%8D%E7%9B%B4%E8%BE%BE-%E5%B0%8F%E7%81%AB%E7%AE%AD%E5%B7%B2%E8%B4%AD%E8%B4%A6%E5%8F%B7%E4%B8%93%E9%A1%B5_(item/69)-28CD41?style=for-the-badge&logo=appstore&logoColor=white" alt="小火箭已购账号获取直达" />
   </a>
 </p>
 
