@@ -7,12 +7,10 @@
 **2026 最新美区 Apple ID 共享/独享账号 · 已购小火箭正版快速安装 · 账号切换与防锁机安全教程**
 
 <p align="center">
-  <!-- AUTO_UPDATE_BADGE_START -->![Last Update](https://img.shields.io/badge/每日自动维护-2026--11--08-brightgreen?style=flat-square&logo=github-actions&logoColor=white)<!-- AUTO_UPDATE_BADGE_END -->
-  <a href="https://github.com/quartz9243/apple-id/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/quartz9243/apple-id/daily-update.yml?branch=main&label=自动化维护&style=flat-square&logo=github" alt="GitHub Workflow Status" />
-  </a>
+  <!-- AUTO_UPDATE_BADGE_START -->![Last Update](https://img.shields.io/badge/更新日期-2026--11--08-brightgreen?style=flat-square&logo=apple&logoColor=white)<!-- AUTO_UPDATE_BADGE_END -->
+  <img src="https://img.shields.io/badge/更新频率-每日实时维护-blue?style=flat-square" alt="Daily Maintenance" />
   <img src="https://img.shields.io/badge/适用系统-iOS%2014.0%2B%20%7C%20iPadOS-lightgrey?style=flat-square&logo=apple&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/账号状态-全天候检测轮换-blue?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/账号状态-全天候检测轮换-success?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/防锁机保障-100%25商店登录-red?style=flat-square" alt="Safety" />
 </p>
 
@@ -20,18 +18,19 @@
 
 </div>
 
-## 📢 每日更新看板（实时状态）
+## 📢 每日更新看板（实时维护状态）
 
 > [!TIP]
-> - 🟢 **今日账号状态**：**已更新可用**（系统每日自动检测，账号池动态维护轮换）
-> - 📅 **最后同步日期**：`<!-- AUTO_UPDATE_DATE_START -->2026-11-08<!-- AUTO_UPDATE_DATE_END -->`（<!-- AUTO_UPDATE_CN_START -->2026年11月08日<!-- AUTO_UPDATE_CN_END -->）
-> - 🛡️ **安全提示**：请认准正规入口，**切勿将外区公共账号登录至手机【系统设置 - iCloud】**！
+> - 🟢 **今日账号状态**：**【已更新可用 · 实时轮换】**（每日定期检测，账号池全天候维护补号）
+> - 🔄 **更新机制**：每日持续维护，若遇到苹果官方临时风控锁定，网站后台将自动补号轮换。
+> - 📅 **最新同步日期**：`<!-- AUTO_UPDATE_DATE_START -->2026-11-08<!-- AUTO_UPDATE_DATE_END -->`（<!-- AUTO_UPDATE_CN_START -->2026年11月08日<!-- AUTO_UPDATE_CN_END -->）
+> - 🛡️ **安全第一**：请认准正规入口，**切勿将外区公共账号登录至手机【系统设置 - iCloud】**！
 
 ---
 
 ## 🌐 官方入口（同站双域名 · 点击直达）
 
-为保障国内不同省份及运营商网络顺畅访问，站点配置了双域名解析，数据实时互通，任选其一均可极速进入：
+为保障国内不同省份及运营商网络顺畅访问，站点配置了双域名解析，两端数据实时互通，任选其一均可极速进入：
 
 <p align="center">
   <a href="https://applp.com" target="_blank" rel="noopener noreferrer">
@@ -50,7 +49,7 @@
 
 ## 📌 为什么需要美区 / 外区 Apple ID？
 
-由于国内 App Store（国区）早在多年前就全面下架了 **Shadowrocket（小火箭）** 以及其他网络工具（如 Quantumult X、Loon、Stash 等），在不越狱的前提下，在 iPhone 或 iPad 上安装正版小火箭的唯一官方安全途径是：
+由于国内 App Store（国区）早就下架了 **Shadowrocket（小火箭）** 以及相关网络工具软件，在不越狱的前提下，在 iPhone 或 iPad 上安装正版小火箭的唯一官方安全途径是：
 
 👉 **在 App Store 登录已在美区或其他外区购买过该软件的 Apple ID，进入商店直接下载正版。**
 
