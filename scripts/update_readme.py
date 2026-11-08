@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-每日自动更新 README 状态和维护时间的脚本
-支持 UTC+8 北京时间转换
+每日更新 README 状态和维护时间的脚本
+支持 UTC+8 北京时间转换，无需依赖 GitHub Actions
 """
 import os
 import re
@@ -46,7 +46,7 @@ def update_readme():
     # 替换徽章中的日期
     content = re.sub(
         r'<!-- AUTO_UPDATE_BADGE_START -->.*?<!-- AUTO_UPDATE_BADGE_END -->',
-        f'<!-- AUTO_UPDATE_BADGE_START -->![Last Update](https://img.shields.io/badge/每日自动维护-{badge_date}-brightgreen?style=flat-square&logo=github-actions&logoColor=white)<!-- AUTO_UPDATE_BADGE_END -->',
+        f'<!-- AUTO_UPDATE_BADGE_START -->![Last Update](https://img.shields.io/badge/更新日期-{badge_date}-brightgreen?style=flat-square&logo=apple&logoColor=white)<!-- AUTO_UPDATE_BADGE_END -->',
         content,
         flags=re.DOTALL
     )
@@ -54,7 +54,7 @@ def update_readme():
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(content)
         
-    print(f"Successfully updated README.md with date: {date_iso} ({date_cn})")
+    print(f"README.md 日期更新成功: {date_iso} ({date_cn})")
     return True
 
 if __name__ == "__main__":
