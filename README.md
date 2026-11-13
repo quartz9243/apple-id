@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2026--11--12-brightgreen?style=flat-square&logo=apple&logoColor=white" alt="更新日期" />
+  <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2026--11--13-brightgreen?style=flat-square&logo=apple&logoColor=white" alt="更新日期" />
   <img src="https://img.shields.io/badge/%E8%87%AA%E5%8A%A8%E5%8F%91%E5%8D%A1-24%E5%B0%8F%E6%97%B6%E8%87%AA%E5%8A%A8%E6%8F%90%E5%8D%A1-blue?style=flat-square" alt="自动发卡" />
   <img src="https://img.shields.io/badge/%E8%B4%A6%E5%8F%B7%E7%8A%B6%E6%80%81-%E6%AF%8F%E6%97%A5%E6%A3%80%E6%B5%8B%E6%9B%B4%E6%96%B0-success?style=flat-square" alt="账号状态" />
 </p>
